@@ -11,13 +11,11 @@
 
 # Working:
 - [x] Intel UHD Graphics 630
-- [x] Night shift
-- [x] Audio (AppleALC.kext with alcid=11)
+- [x] Audio
 - [x] Microphone
 - [x] Ethernet (open Terminal, type **ifconfig en0 media 100baseTX** to make Ethernet works)
-- [x] iCloud - Facetime - iMessage - Siri
 - [x] CPU power management
-- [x] All USB ports
+- [x] USB ports
 
 # SMBIOS:
 iMac20,1
