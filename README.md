@@ -1,4 +1,4 @@
-# Hackintosh-Opencore-MSI-MPG-Z490-Gaming-Plus-UHD-630
+# Hackintosh-OpenCore-MSI-MPG-Z490-Gaming-Plus-UHD-630
 
 # Specifications:
 * CPU: Intel Core i3-10100
@@ -7,7 +7,7 @@
 * Ethernet: Realtek® RTL8125B-CG 2.5G LAN Controller
 
 # Version: 
-* Opencore: 0.6.1
+* OpenCore: 0.6.2
 
 # Working:
 - [x] Intel UHD Graphics 630
